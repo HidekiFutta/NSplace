@@ -74,7 +74,7 @@ h1,h2,h3,h4,h5,h6 {
 #menu {
    float:left;
    width:760px;
-   background:#f08080 url("../images/bg_menu.gif") 0 0 repeat-x;
+   background:#f08080 url("bg_menu.gif") 0 0 repeat-x;
 }
 
 #contents {
@@ -147,7 +147,7 @@ h1,h2,h3,h4,h5,h6 {
 #header #gnavi li a {
    display:block;
    padding-left:15px;
-   background:url("../images/bg_gnavi.gif") 0 50% no-repeat;
+   background:url("bg_gnavi.gif") 0 50% no-repeat;
 }
 
 #slideshow {
@@ -181,7 +181,7 @@ h1,h2,h3,h4,h5,h6 {
 #menu li {
    float:left;
    margin:0;
-   background:url("../images/bg_menupause.gif") 0 50% no-repeat;
+   background:url("bg_menupause.gif") 0 50% no-repeat;
 }
 
 #menu li a {
@@ -217,7 +217,7 @@ h1,h2,h3,h4,h5,h6 {
    padding:30px 10px;
    font-size:15px;
    color:#5a4816;
-   background:#fff url("../images/bg_h2.gif") 100% 100% repeat-x;
+   background:#fff url("bg_h2.gif") 100% 100% repeat-x;
 }
 
 #main h3 {
@@ -227,7 +227,7 @@ h1,h2,h3,h4,h5,h6 {
    color:#5a4816;
    font-size:15px;
    font-weight:bold;
-   background:#fff url("../images/bg_h3.gif") 0 50% no-repeat;
+   background:#fff url("bg_h3.gif") 0 50% no-repeat;
 }
 
 #main h4 {
@@ -324,7 +324,7 @@ h1,h2,h3,h4,h5,h6 {
    padding:30px 10px;
    font-size:18px;
    color:#5a4816;
-   background:#fff url("../images/bg_h2.gif") 100% 100% repeat-x;
+   background:#fff url("bg_h2.gif") 100% 100% repeat-x;
 }
 
 #main2 h3 {
@@ -334,7 +334,7 @@ h1,h2,h3,h4,h5,h6 {
    color:#5a4816;
    font-size:15px;
    font-weight:bold;
-   background:#fff url("../images/bg_h3.gif") 0 50% no-repeat;
+   background:#fff url("bg_h3.gif") 0 50% no-repeat;
 }
 
 #main2 h4 {
@@ -441,7 +441,7 @@ h1,h2,h3,h4,h5,h6 {
    padding:5px 0 5px 0;
    line-height:1.4;
    list-style:none;
-   background:url("../images/bg_dotline.gif") 0 100% repeat-x;
+   background:url("bg_dotline.gif") 0 100% repeat-x;
 }
 
 #sub li a {
@@ -458,7 +458,7 @@ h1,h2,h3,h4,h5,h6 {
 
 #pageTop a {
    padding:0 0 0 8px;
-   background:url("../images/bg_pagetop.gif") 0 50% no-repeat;
+   background:url("bg_pagetop.gif") 0 50% no-repeat;
    color:#333;
 }
 
@@ -472,7 +472,7 @@ h1,h2,h3,h4,h5,h6 {
    margin:0;
    padding:0;
    text-align:right;
-   background:url("../images/bg_dotline.gif") 0 0 repeat-x;
+   background:url("bg_dotline.gif") 0 0 repeat-x;
    
 }
 
@@ -485,7 +485,7 @@ h1,h2,h3,h4,h5,h6 {
 
 #footMenu li a {
    padding-left:10px;
-   background:url("../images/bg_footmenu.gif") 0 50% no-repeat;
+   background:url("bg_footmenu.gif") 0 50% no-repeat;
 }
 
 
